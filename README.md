@@ -27,13 +27,13 @@ I classified the BMI outcome into Underweight, Healthy Weight, Overweight, and O
 - Age group: `=IF(B2>=31,"31-35",IF(B2>=26,"26-30",IF(B2>=22,"22-25","18-21")))`
 
 ## Visualization
-(Dashboard)
+![](BMI_Dashboard.jpg)
 
 # Insights
 1. Out of 24,967 individuals, none fell under the Obese classification, and only 6 were Overweight. The majority of both males and females fell into the Healthy Weight classification leaving a total of 7,401 Underweight.
 2. There is no strong relationship between height, weight and age. This shows that a person's age or height doesn't necessarily influence their weight.
 3. Majority of the individuals within the 31-35 age group have a healthy weight.
 
-_Use this [BMI Calculator](https://incomparable-tanuki-d71592.netlify.app/), developed by Richard, to check your BMI._
+_Use this [BMI Calculator](https://incomparable-tanuki-d71592.netlify.app/), developed by my friend, [Richard](https://github.com/richieduru/bmi), to check your BMI._
 
 
