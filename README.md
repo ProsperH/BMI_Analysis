@@ -27,7 +27,7 @@ I classified the BMI outcome into Underweight, Healthy Weight, Overweight, and O
 - Age group: `=IF(B2>=31,"31-35",IF(B2>=26,"26-30",IF(B2>=22,"22-25","18-21")))`
 
 ## Visualization
-![](BMI_Dashboard.jpg)
+![](BMI_dashboard.jpg)
 
 # Insights
 1. Out of 24,967 individuals, none fell under the Obese classification, and only 6 were Overweight. The majority of both males and females fell into the Healthy Weight classification leaving a total of 7,401 Underweight.
